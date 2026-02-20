@@ -1,0 +1,27 @@
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+
+# 1. Generate Sales Data (Retail & Manufacturing Context)
+np.random.seed(42)
+dates = [datetime(2025, 1, 1) + timedelta(days=x) for x in range(365)]
+stores = ['SLC-Sugarhouse', 'SLC-Downtown', 'WVC-Manufacturing-Hub', 'Murray-Retail']
+products = ['Widget-A', 'Widget-B', 'Custom-Part-X', 'Industrial-Sensor']
+
+data = []
+for date in dates:
+    for store in stores:
+        for product in products:
+            units = np.random.randint(1, 50)
+            price = np.random.uniform(100, 500)
+            cogs = price * np.random.uniform(0.4, 0.7) # Simulating 40-70% margin
+            data.append([date, store, product, units, price, cogs])
+
+df_sales = pd.DataFrame(data, columns=['Date', 'Location', 'Product', 'Units', 'Price', 'COGS'])
+df_sales['Total_Revenue'] = df_sales['Units'] * df_sales['Price']
+df_sales['Total_Cost'] = df_sales['Units'] * df_sales['COGS']
+df_sales['Gross_Margin'] = df_sales['Total_Revenue'] - df_sales['Total_Cost']
+
+# 2. Save to CSV for your GitHub
+df_sales.to_csv('erp_sales_data.csv', index=False)
+print("Data generated successfully: erp_sales_data.csv")

@@ -1,5 +1,7 @@
 # Retail & Manufacturing Financial Intelligence Suite
 
+![CI](https://github.com/RTorres1980/Local-Corporate/actions/workflows/ci.yml/badge.svg)
+
 Financial reporting and analysis for a business with three Salt Lake-area retail stores and a West Valley City manufacturing hub, built on a year of synthetic ERP data. It produces a location-level P&L, reconciles the sales system to the general ledger, measures inventory efficiency by product, and forecasts next year's revenue.
 
 ![Revenue forecast](output/revenue_forecast.png)

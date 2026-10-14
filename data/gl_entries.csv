@@ -1,0 +1,289 @@
+Month_End,Location,Account,Account_Name,Debit,Credit
+2025-01-31,Murray-Retail,4000,Sales Revenue,0.0,207769.56
+2025-01-31,Murray-Retail,5000,Cost of Goods Sold,114057.59,0.0
+2025-01-31,Murray-Retail,6000,Rent,8568.41,0.0
+2025-01-31,Murray-Retail,6100,Payroll,37356.56,0.0
+2025-01-31,Murray-Retail,6200,Utilities,2465.6,0.0
+2025-01-31,Murray-Retail,6300,Marketing,3844.49,0.0
+2025-01-31,SLC-Downtown,4000,Sales Revenue,0.0,218738.94
+2025-01-31,SLC-Downtown,5000,Cost of Goods Sold,119929.43,0.0
+2025-01-31,SLC-Downtown,6000,Rent,8749.42,0.0
+2025-01-31,SLC-Downtown,6100,Payroll,36192.94,0.0
+2025-01-31,SLC-Downtown,6200,Utilities,2549.1,0.0
+2025-01-31,SLC-Downtown,6300,Marketing,3842.76,0.0
+2025-01-31,SLC-Sugarhouse,4000,Sales Revenue,0.0,220871.02
+2025-01-31,SLC-Sugarhouse,5000,Cost of Goods Sold,121214.21,0.0
+2025-01-31,SLC-Sugarhouse,6000,Rent,9348.86,0.0
+2025-01-31,SLC-Sugarhouse,6100,Payroll,38319.11,0.0
+2025-01-31,SLC-Sugarhouse,6200,Utilities,2464.04,0.0
+2025-01-31,SLC-Sugarhouse,6300,Marketing,4123.55,0.0
+2025-01-31,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,328440.33
+2025-01-31,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,180406.84,0.0
+2025-01-31,WVC-Manufacturing-Hub,6000,Rent,12789.84,0.0
+2025-01-31,WVC-Manufacturing-Hub,6100,Payroll,54546.08,0.0
+2025-01-31,WVC-Manufacturing-Hub,6200,Utilities,3632.22,0.0
+2025-01-31,WVC-Manufacturing-Hub,6300,Marketing,5772.29,0.0
+2025-02-28,Murray-Retail,4000,Sales Revenue,0.0,213472.92
+2025-02-28,Murray-Retail,5000,Cost of Goods Sold,116659.87,0.0
+2025-02-28,Murray-Retail,6000,Rent,9251.23,0.0
+2025-02-28,Murray-Retail,6100,Payroll,38873.41,0.0
+2025-02-28,Murray-Retail,6200,Utilities,2469.37,0.0
+2025-02-28,Murray-Retail,6300,Marketing,4060.73,0.0
+2025-02-28,SLC-Downtown,4000,Sales Revenue,0.0,207846.2
+2025-02-28,SLC-Downtown,5000,Cost of Goods Sold,113796.57,0.0
+2025-02-28,SLC-Downtown,6000,Rent,9059.13,0.0
+2025-02-28,SLC-Downtown,6100,Payroll,39761.09,0.0
+2025-02-28,SLC-Downtown,6200,Utilities,2500.23,0.0
+2025-02-28,SLC-Downtown,6300,Marketing,3888.73,0.0
+2025-02-28,SLC-Sugarhouse,4000,Sales Revenue,0.0,212803.89
+2025-02-28,SLC-Sugarhouse,5000,Cost of Goods Sold,117372.99,0.0
+2025-02-28,SLC-Sugarhouse,6000,Rent,8961.96,0.0
+2025-02-28,SLC-Sugarhouse,6100,Payroll,37675.67,0.0
+2025-02-28,SLC-Sugarhouse,6200,Utilities,2492.13,0.0
+2025-02-28,SLC-Sugarhouse,6300,Marketing,4032.41,0.0
+2025-02-28,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,298082.92
+2025-02-28,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,163407.01,0.0
+2025-02-28,WVC-Manufacturing-Hub,6000,Rent,13164.51,0.0
+2025-02-28,WVC-Manufacturing-Hub,6100,Payroll,52035.35,0.0
+2025-02-28,WVC-Manufacturing-Hub,6200,Utilities,3664.2,0.0
+2025-02-28,WVC-Manufacturing-Hub,6300,Marketing,5756.57,0.0
+2025-03-31,Murray-Retail,4000,Sales Revenue,0.0,252557.96
+2025-03-31,Murray-Retail,5000,Cost of Goods Sold,137763.45,0.0
+2025-03-31,Murray-Retail,6000,Rent,8714.63,0.0
+2025-03-31,Murray-Retail,6100,Payroll,37165.67,0.0
+2025-03-31,Murray-Retail,6200,Utilities,2602.33,0.0
+2025-03-31,Murray-Retail,6300,Marketing,4120.54,0.0
+2025-03-31,SLC-Downtown,4000,Sales Revenue,0.0,260673.71
+2025-03-31,SLC-Downtown,5000,Cost of Goods Sold,142515.08,0.0
+2025-03-31,SLC-Downtown,6000,Rent,8679.02,0.0
+2025-03-31,SLC-Downtown,6100,Payroll,38321.36,0.0
+2025-03-31,SLC-Downtown,6200,Utilities,2444.25,0.0
+2025-03-31,SLC-Downtown,6300,Marketing,4051.9,0.0
+2025-03-31,SLC-Sugarhouse,4000,Sales Revenue,0.0,264173.3
+2025-03-31,SLC-Sugarhouse,5000,Cost of Goods Sold,145686.98,0.0
+2025-03-31,SLC-Sugarhouse,6000,Rent,8706.22,0.0
+2025-03-31,SLC-Sugarhouse,6100,Payroll,37437.27,0.0
+2025-03-31,SLC-Sugarhouse,6200,Utilities,2472.13,0.0
+2025-03-31,SLC-Sugarhouse,6300,Marketing,4015.08,0.0
+2025-03-31,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,378807.41
+2025-03-31,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,207701.93,0.0
+2025-03-31,WVC-Manufacturing-Hub,6000,Rent,12271.54,0.0
+2025-03-31,WVC-Manufacturing-Hub,6100,Payroll,54411.61,0.0
+2025-03-31,WVC-Manufacturing-Hub,6200,Utilities,3608.24,0.0
+2025-03-31,WVC-Manufacturing-Hub,6300,Marketing,5678.39,0.0
+2025-04-30,Murray-Retail,4000,Sales Revenue,0.0,244562.56
+2025-04-30,Murray-Retail,5000,Cost of Goods Sold,133740.47,0.0
+2025-04-30,Murray-Retail,6000,Rent,9362.77,0.0
+2025-04-30,Murray-Retail,6100,Payroll,39103.88,0.0
+2025-04-30,Murray-Retail,6200,Utilities,2386.0,0.0
+2025-04-30,Murray-Retail,6300,Marketing,3833.89,0.0
+2025-04-30,SLC-Downtown,4000,Sales Revenue,0.0,267109.93
+2025-04-30,SLC-Downtown,5000,Cost of Goods Sold,145748.32,0.0
+2025-04-30,SLC-Downtown,6000,Rent,9143.97,0.0
+2025-04-30,SLC-Downtown,6100,Payroll,38843.13,0.0
+2025-04-30,SLC-Downtown,6200,Utilities,2616.98,0.0
+2025-04-30,SLC-Downtown,6300,Marketing,3801.33,0.0
+2025-04-30,SLC-Sugarhouse,4000,Sales Revenue,0.0,253624.33
+2025-04-30,SLC-Sugarhouse,5000,Cost of Goods Sold,138285.81,0.0
+2025-04-30,SLC-Sugarhouse,6000,Rent,8763.26,0.0
+2025-04-30,SLC-Sugarhouse,6100,Payroll,39260.65,0.0
+2025-04-30,SLC-Sugarhouse,6200,Utilities,2597.88,0.0
+2025-04-30,SLC-Sugarhouse,6300,Marketing,3985.77,0.0
+2025-04-30,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,381129.82
+2025-04-30,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,207214.74,0.0
+2025-04-30,WVC-Manufacturing-Hub,6000,Rent,12579.53,0.0
+2025-04-30,WVC-Manufacturing-Hub,6100,Payroll,55081.25,0.0
+2025-04-30,WVC-Manufacturing-Hub,6200,Utilities,3485.99,0.0
+2025-04-30,WVC-Manufacturing-Hub,6300,Marketing,5760.96,0.0
+2025-05-31,Murray-Retail,4000,Sales Revenue,0.0,285823.06
+2025-05-31,Murray-Retail,5000,Cost of Goods Sold,156608.42,0.0
+2025-05-31,Murray-Retail,6000,Rent,9403.86,0.0
+2025-05-31,Murray-Retail,6100,Payroll,37095.02,0.0
+2025-05-31,Murray-Retail,6200,Utilities,2443.6,0.0
+2025-05-31,Murray-Retail,6300,Marketing,4175.44,0.0
+2025-05-31,SLC-Downtown,4000,Sales Revenue,0.0,283880.58
+2025-05-31,SLC-Downtown,5000,Cost of Goods Sold,155054.45,0.0
+2025-05-31,SLC-Downtown,6000,Rent,8931.87,0.0
+2025-05-31,SLC-Downtown,6100,Payroll,36159.76,0.0
+2025-05-31,SLC-Downtown,6200,Utilities,2500.62,0.0
+2025-05-31,SLC-Downtown,6300,Marketing,4046.7,0.0
+2025-05-31,SLC-Sugarhouse,4000,Sales Revenue,0.0,278150.46
+2025-05-31,SLC-Sugarhouse,5000,Cost of Goods Sold,151679.59,0.0
+2025-05-31,SLC-Sugarhouse,6000,Rent,8770.26,0.0
+2025-05-31,SLC-Sugarhouse,6100,Payroll,38864.16,0.0
+2025-05-31,SLC-Sugarhouse,6200,Utilities,2433.24,0.0
+2025-05-31,SLC-Sugarhouse,6300,Marketing,3847.86,0.0
+2025-05-31,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,436827.44
+2025-05-31,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,238196.43,0.0
+2025-05-31,WVC-Manufacturing-Hub,6000,Rent,12284.2,0.0
+2025-05-31,WVC-Manufacturing-Hub,6100,Payroll,53380.4,0.0
+2025-05-31,WVC-Manufacturing-Hub,6200,Utilities,3624.53,0.0
+2025-05-31,WVC-Manufacturing-Hub,6300,Marketing,5616.43,0.0
+2025-06-30,Murray-Retail,4000,Sales Revenue,0.0,293575.93
+2025-06-30,Murray-Retail,5000,Cost of Goods Sold,163072.87,0.0
+2025-06-30,Murray-Retail,6000,Rent,9314.09,0.0
+2025-06-30,Murray-Retail,6100,Payroll,36343.91,0.0
+2025-06-30,Murray-Retail,6200,Utilities,2468.15,0.0
+2025-06-30,Murray-Retail,6300,Marketing,3974.07,0.0
+2025-06-30,SLC-Downtown,4000,Sales Revenue,0.0,277391.17
+2025-06-30,SLC-Downtown,5000,Cost of Goods Sold,150926.77,0.0
+2025-06-30,SLC-Downtown,6000,Rent,9271.55,0.0
+2025-06-30,SLC-Downtown,6100,Payroll,38420.46,0.0
+2025-06-30,SLC-Downtown,6200,Utilities,2571.26,0.0
+2025-06-30,SLC-Downtown,6300,Marketing,3935.42,0.0
+2025-06-30,SLC-Sugarhouse,4000,Sales Revenue,0.0,291696.07
+2025-06-30,SLC-Sugarhouse,5000,Cost of Goods Sold,159358.55,0.0
+2025-06-30,SLC-Sugarhouse,6000,Rent,9390.63,0.0
+2025-06-30,SLC-Sugarhouse,6100,Payroll,39191.89,0.0
+2025-06-30,SLC-Sugarhouse,6200,Utilities,2603.87,0.0
+2025-06-30,SLC-Sugarhouse,6300,Marketing,3905.12,0.0
+2025-06-30,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,418523.03
+2025-06-30,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,228544.44,0.0
+2025-06-30,WVC-Manufacturing-Hub,6000,Rent,11978.28,0.0
+2025-06-30,WVC-Manufacturing-Hub,6100,Payroll,53814.36,0.0
+2025-06-30,WVC-Manufacturing-Hub,6200,Utilities,3497.4,0.0
+2025-06-30,WVC-Manufacturing-Hub,6300,Marketing,5756.21,0.0
+2025-07-31,Murray-Retail,4000,Sales Revenue,0.0,294638.57
+2025-07-31,Murray-Retail,5000,Cost of Goods Sold,160789.11,0.0
+2025-07-31,Murray-Retail,6000,Rent,8637.74,0.0
+2025-07-31,Murray-Retail,6100,Payroll,38362.7,0.0
+2025-07-31,Murray-Retail,6200,Utilities,2424.72,0.0
+2025-07-31,Murray-Retail,6300,Marketing,4005.84,0.0
+2025-07-31,SLC-Downtown,4000,Sales Revenue,0.0,287623.33
+2025-07-31,SLC-Downtown,5000,Cost of Goods Sold,157019.35,0.0
+2025-07-31,SLC-Downtown,6000,Rent,8692.49,0.0
+2025-07-31,SLC-Downtown,6100,Payroll,39566.9,0.0
+2025-07-31,SLC-Downtown,6200,Utilities,2420.82,0.0
+2025-07-31,SLC-Downtown,6300,Marketing,4030.03,0.0
+2025-07-31,SLC-Sugarhouse,4000,Sales Revenue,0.0,291766.02
+2025-07-31,SLC-Sugarhouse,5000,Cost of Goods Sold,158205.73,0.0
+2025-07-31,SLC-Sugarhouse,6000,Rent,8555.05,0.0
+2025-07-31,SLC-Sugarhouse,6100,Payroll,36694.47,0.0
+2025-07-31,SLC-Sugarhouse,6200,Utilities,2499.83,0.0
+2025-07-31,SLC-Sugarhouse,6300,Marketing,3816.38,0.0
+2025-07-31,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,442887.58
+2025-07-31,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,241885.31,0.0
+2025-07-31,WVC-Manufacturing-Hub,6000,Rent,12653.91,0.0
+2025-07-31,WVC-Manufacturing-Hub,6100,Payroll,51520.66,0.0
+2025-07-31,WVC-Manufacturing-Hub,6200,Utilities,3579.29,0.0
+2025-07-31,WVC-Manufacturing-Hub,6300,Marketing,5806.24,0.0
+2025-08-31,Murray-Retail,4000,Sales Revenue,0.0,269976.75
+2025-08-31,Murray-Retail,5000,Cost of Goods Sold,146632.59,0.0
+2025-08-31,Murray-Retail,6000,Rent,9232.69,0.0
+2025-08-31,Murray-Retail,6100,Payroll,36340.88,0.0
+2025-08-31,Murray-Retail,6200,Utilities,2499.09,0.0
+2025-08-31,Murray-Retail,6300,Marketing,3844.47,0.0
+2025-08-31,SLC-Downtown,4000,Sales Revenue,0.0,281177.04
+2025-08-31,SLC-Downtown,5000,Cost of Goods Sold,153852.57,0.0
+2025-08-31,SLC-Downtown,6000,Rent,8918.15,0.0
+2025-08-31,SLC-Downtown,6100,Payroll,39290.28,0.0
+2025-08-31,SLC-Downtown,6200,Utilities,2385.29,0.0
+2025-08-31,SLC-Downtown,6300,Marketing,3900.66,0.0
+2025-08-31,SLC-Sugarhouse,4000,Sales Revenue,0.0,272270.23
+2025-08-31,SLC-Sugarhouse,5000,Cost of Goods Sold,148691.83,0.0
+2025-08-31,SLC-Sugarhouse,6000,Rent,9293.91,0.0
+2025-08-31,SLC-Sugarhouse,6100,Payroll,37642.52,0.0
+2025-08-31,SLC-Sugarhouse,6200,Utilities,2433.84,0.0
+2025-08-31,SLC-Sugarhouse,6300,Marketing,4179.76,0.0
+2025-08-31,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,403295.86
+2025-08-31,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,220293.12,0.0
+2025-08-31,WVC-Manufacturing-Hub,6000,Rent,12166.22,0.0
+2025-08-31,WVC-Manufacturing-Hub,6100,Payroll,54735.39,0.0
+2025-08-31,WVC-Manufacturing-Hub,6200,Utilities,3387.33,0.0
+2025-08-31,WVC-Manufacturing-Hub,6300,Marketing,5859.31,0.0
+2025-09-30,Murray-Retail,4000,Sales Revenue,0.0,250407.72
+2025-09-30,Murray-Retail,5000,Cost of Goods Sold,136840.33,0.0
+2025-09-30,Murray-Retail,6000,Rent,9257.46,0.0
+2025-09-30,Murray-Retail,6100,Payroll,37150.43,0.0
+2025-09-30,Murray-Retail,6200,Utilities,2620.9,0.0
+2025-09-30,Murray-Retail,6300,Marketing,3845.78,0.0
+2025-09-30,SLC-Downtown,4000,Sales Revenue,0.0,239712.3
+2025-09-30,SLC-Downtown,5000,Cost of Goods Sold,131415.1,0.0
+2025-09-30,SLC-Downtown,6000,Rent,9323.64,0.0
+2025-09-30,SLC-Downtown,6100,Payroll,38757.83,0.0
+2025-09-30,SLC-Downtown,6200,Utilities,2418.47,0.0
+2025-09-30,SLC-Downtown,6300,Marketing,4018.55,0.0
+2025-09-30,SLC-Sugarhouse,4000,Sales Revenue,0.0,253189.79
+2025-09-30,SLC-Sugarhouse,5000,Cost of Goods Sold,137745.32,0.0
+2025-09-30,SLC-Sugarhouse,6000,Rent,8560.73,0.0
+2025-09-30,SLC-Sugarhouse,6100,Payroll,38277.89,0.0
+2025-09-30,SLC-Sugarhouse,6200,Utilities,2520.55,0.0
+2025-09-30,SLC-Sugarhouse,6300,Marketing,3963.41,0.0
+2025-09-30,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,378545.05
+2025-09-30,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,206798.88,0.0
+2025-09-30,WVC-Manufacturing-Hub,6000,Rent,13008.76,0.0
+2025-09-30,WVC-Manufacturing-Hub,6100,Payroll,55491.57,0.0
+2025-09-30,WVC-Manufacturing-Hub,6200,Utilities,3511.82,0.0
+2025-09-30,WVC-Manufacturing-Hub,6300,Marketing,5697.41,0.0
+2025-10-31,Murray-Retail,4000,Sales Revenue,0.0,242596.17
+2025-10-31,Murray-Retail,5000,Cost of Goods Sold,134487.24,0.0
+2025-10-31,Murray-Retail,6000,Rent,8681.27,0.0
+2025-10-31,Murray-Retail,6100,Payroll,39892.77,0.0
+2025-10-31,Murray-Retail,6200,Utilities,2589.48,0.0
+2025-10-31,Murray-Retail,6300,Marketing,4179.61,0.0
+2025-10-31,SLC-Downtown,4000,Sales Revenue,0.0,229580.1
+2025-10-31,SLC-Downtown,5000,Cost of Goods Sold,124886.64,0.0
+2025-10-31,SLC-Downtown,6000,Rent,9250.26,0.0
+2025-10-31,SLC-Downtown,6100,Payroll,37327.07,0.0
+2025-10-31,SLC-Downtown,6200,Utilities,2430.42,0.0
+2025-10-31,SLC-Downtown,6300,Marketing,4004.42,0.0
+2025-10-31,SLC-Sugarhouse,4000,Sales Revenue,0.0,226998.67
+2025-10-31,SLC-Sugarhouse,5000,Cost of Goods Sold,124546.24,0.0
+2025-10-31,SLC-Sugarhouse,6000,Rent,8624.34,0.0
+2025-10-31,SLC-Sugarhouse,6100,Payroll,38196.91,0.0
+2025-10-31,SLC-Sugarhouse,6200,Utilities,2467.48,0.0
+2025-10-31,SLC-Sugarhouse,6300,Marketing,4091.17,0.0
+2025-10-31,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,360046.02
+2025-10-31,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,196628.41,0.0
+2025-10-31,WVC-Manufacturing-Hub,6000,Rent,12758.37,0.0
+2025-10-31,WVC-Manufacturing-Hub,6100,Payroll,51851.49,0.0
+2025-10-31,WVC-Manufacturing-Hub,6200,Utilities,3581.7,0.0
+2025-10-31,WVC-Manufacturing-Hub,6300,Marketing,5494.22,0.0
+2025-11-30,Murray-Retail,4000,Sales Revenue,0.0,222983.73
+2025-11-30,Murray-Retail,5000,Cost of Goods Sold,123449.25,0.0
+2025-11-30,Murray-Retail,6000,Rent,8773.73,0.0
+2025-11-30,Murray-Retail,6100,Payroll,37690.5,0.0
+2025-11-30,Murray-Retail,6200,Utilities,2414.46,0.0
+2025-11-30,Murray-Retail,6300,Marketing,3930.06,0.0
+2025-11-30,SLC-Downtown,4000,Sales Revenue,0.0,218808.89
+2025-11-30,SLC-Downtown,5000,Cost of Goods Sold,120470.87,0.0
+2025-11-30,SLC-Downtown,6000,Rent,8783.86,0.0
+2025-11-30,SLC-Downtown,6100,Payroll,36182.57,0.0
+2025-11-30,SLC-Downtown,6200,Utilities,2450.22,0.0
+2025-11-30,SLC-Downtown,6300,Marketing,3986.73,0.0
+2025-11-30,SLC-Sugarhouse,4000,Sales Revenue,0.0,209911.99
+2025-11-30,SLC-Sugarhouse,5000,Cost of Goods Sold,115447.22,0.0
+2025-11-30,SLC-Sugarhouse,6000,Rent,9296.76,0.0
+2025-11-30,SLC-Sugarhouse,6100,Payroll,36785.81,0.0
+2025-11-30,SLC-Sugarhouse,6200,Utilities,2456.85,0.0
+2025-11-30,SLC-Sugarhouse,6300,Marketing,3811.75,0.0
+2025-11-30,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,306892.74
+2025-11-30,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,168552.58,0.0
+2025-11-30,WVC-Manufacturing-Hub,6000,Rent,12064.64,0.0
+2025-11-30,WVC-Manufacturing-Hub,6100,Payroll,52434.53,0.0
+2025-11-30,WVC-Manufacturing-Hub,6200,Utilities,3499.97,0.0
+2025-11-30,WVC-Manufacturing-Hub,6300,Marketing,5739.03,0.0
+2025-12-31,Murray-Retail,4000,Sales Revenue,0.0,217010.31
+2025-12-31,Murray-Retail,5000,Cost of Goods Sold,120163.98,0.0
+2025-12-31,Murray-Retail,6000,Rent,9236.86,0.0
+2025-12-31,Murray-Retail,6100,Payroll,39573.12,0.0
+2025-12-31,Murray-Retail,6200,Utilities,2601.95,0.0
+2025-12-31,Murray-Retail,6300,Marketing,3840.6,0.0
+2025-12-31,SLC-Downtown,4000,Sales Revenue,0.0,216308.08
+2025-12-31,SLC-Downtown,5000,Cost of Goods Sold,119425.22,0.0
+2025-12-31,SLC-Downtown,6000,Rent,8650.85,0.0
+2025-12-31,SLC-Downtown,6100,Payroll,37987.81,0.0
+2025-12-31,SLC-Downtown,6200,Utilities,2522.37,0.0
+2025-12-31,SLC-Downtown,6300,Marketing,4039.16,0.0
+2025-12-31,SLC-Sugarhouse,4000,Sales Revenue,0.0,213386.86
+2025-12-31,SLC-Sugarhouse,5000,Cost of Goods Sold,119453.51,0.0
+2025-12-31,SLC-Sugarhouse,6000,Rent,8987.65,0.0
+2025-12-31,SLC-Sugarhouse,6100,Payroll,39828.56,0.0
+2025-12-31,SLC-Sugarhouse,6200,Utilities,2502.24,0.0
+2025-12-31,SLC-Sugarhouse,6300,Marketing,4174.12,0.0
+2025-12-31,WVC-Manufacturing-Hub,4000,Sales Revenue,0.0,322711.86
+2025-12-31,WVC-Manufacturing-Hub,5000,Cost of Goods Sold,178403.02,0.0
+2025-12-31,WVC-Manufacturing-Hub,6000,Rent,13215.12,0.0
+2025-12-31,WVC-Manufacturing-Hub,6100,Payroll,52902.2,0.0
+2025-12-31,WVC-Manufacturing-Hub,6200,Utilities,3371.82,0.0
+2025-12-31,WVC-Manufacturing-Hub,6300,Marketing,5502.51,0.0
